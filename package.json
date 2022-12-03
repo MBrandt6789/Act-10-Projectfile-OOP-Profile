@@ -1,0 +1,30 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "an application that takes in information about employees on a team, then generates page that displays summaries.",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib",
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MBrandt6789/Act-10-Projectfile-OOP-Profile"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MBrandt6789/Act-10-Projectfile-OOP-Profile/issues"
+    },
+    "homepage": "https://github.com/MBrandt6789/Act-10-Projectfile-OOP-Profile#readme",
+    "dependencies": {
+        "inquirer": "^6.5.2"
+    },
+    "devDependencies": {
+        "jest": "^29.3.1"
+    }
+}
