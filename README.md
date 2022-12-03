@@ -45,13 +45,12 @@ THEN I exit the application, and the HTML is generated
 * GitHub: https://github.com/MBrandt6789/Act-10-Projectfile-OOP-Profile
 
 ## Preview
+https://drive.google.com/file/d/1P8EfFk1BRvsgR-SH4G8xdDHyOOxVneJ_/view
+
+![Picture](Assets/127.0.0.1_5500_dist_index.html.png)
 
 ## Colaborators
 ```md
 I worked with a study group on this. 
 ```
-<a href="https://github.com/CoffeeEyes28"> Gregory Johnston </a><br>
-<a href="https://github.com/monicadolce"> Monica Dolcemascolo </a><br>
-<a href="https://github.com/leanonruthie"> Ruth Kim </a><br>
-<a href="https://github.com/ssavane26">Sekou Savane</a><br>
-<a href="https://github.com/sflores926">Stephany Flores</a><br>
+Gregory Johnston, Monica Dolcemascolo, Ruth Kim, Sekou Savane, and Stephany Flores
