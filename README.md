@@ -2,9 +2,9 @@
 
 ## Task
 
-Build an application that takes in information about employees on a team, then generates page that displays summaries.
+```Build an application that takes in information about employees on a team, then generates page that displays summaries.
 
-Application will run with:
+Application will run with:```
 
 ```bash
 node index.js
@@ -42,6 +42,16 @@ THEN I exit the application, and the HTML is generated
 
 ## Links
 
-* GitHub: 
+* GitHub: https://github.com/MBrandt6789/Act-10-Projectfile-OOP-Profile
 
 ## Preview
+
+## Colaborators
+```md
+I worked with a study group on this. 
+```
+<a href="https://github.com/CoffeeEyes28"> Gregory Johnston </a><br>
+<a href="https://github.com/monicadolce"> Monica Dolcemascolo </a><br>
+<a href="https://github.com/leanonruthie"> Ruth Kim </a><br>
+<a href="https://github.com/ssavane26">Sekou Savane</a><br>
+<a href="https://github.com/sflores926">Stephany Flores</a><br>
